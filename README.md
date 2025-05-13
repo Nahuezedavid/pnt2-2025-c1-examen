@@ -1,5 +1,9 @@
 # PROGRAMACION DE NUEVAS TECNOLOGIAS 2
 
+mi idea era en el filtro de peliculas guardarlas con el rating y sortearlos por el mismo,
+
+una vez que tenia la lista le hago un slice para tener las primeras 5 y asi mostrarlas
+
 ## Instrucciones de resolución de examen
 
 Es tu primer día en [tecnoshare.com](http://tecnoshare.com) luego de un intenso entrenamiento de 10 semanas por fin tenes la oportunidad de mostrar lo que aprendiste, y tu potencial como desarrollador react.
